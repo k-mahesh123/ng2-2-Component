@@ -1,0 +1,1 @@
+# ng2-2-Component
